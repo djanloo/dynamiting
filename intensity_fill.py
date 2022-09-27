@@ -35,7 +35,7 @@ pars, popt = curve_fit(line, intensity, np.log(std))
 x_ = np.linspace(min(intensity), max(intensity))
 
 cmap = matplotlib.cm.get_cmap('plasma') # Uses plasma color palette
-plt.plot(x_ , np.exp(line(x_, *pars)), color=cmap(0.5))
+plt.plot(x_ , np.exp(line(x_, *pars)), color=cmap(0.4))
 print(pars)
 
 # Prints correlation
