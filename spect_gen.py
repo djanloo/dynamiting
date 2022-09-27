@@ -4,6 +4,10 @@ import matplotlib.pyplot as plt
 import matplotlib
 from rich import print
 
+from matplotlib import rcParams
+rcParams["font.family"] = "serif"
+rcParams["font.size"] = 11
+
 NOISE_AMPLITUDE = 0.0
 
 def pitch_to_freq(p):
@@ -38,6 +42,7 @@ sound += NOISE_AMPLITUDE*np.random.normal(0,1, size=t.shape)
 f_ = np.fft.rfftfreq(len(t), d=0.1/len(t))
 f_ = f_[0:len(f_)//2]
 power_spectrum = np.abs(np.fft.rfft(sound))[0:len(f_)]**2
+plt.figure(figsize=(5,5))
 plt.plot(f_, power_spectrum, color='k', alpha=0.7)
 plt.yscale("log")
 
@@ -52,8 +57,9 @@ for i,p in enumerate(pitches):
 
 
 plt.ylim((1e-3, 1e7))
-plt.xlim((100, 5000))
-plt.xlabel(r"$f$ [Hz]")
-plt.ylabel(r"$S(f)$")
+plt.xlim((367, 5000))
+plt.xlabel("f [Hz]")
+plt.ylabel("S(f)")
+plt.xscale('log')
 plt.show()
 
