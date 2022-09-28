@@ -136,8 +136,14 @@ plt.legend()
 
 # Ellipse plot
 
-means_mfcc = {"M":[], "F":[]}
-means_stft = {"M":[], "F":[]}
+# Normalization
+for field in ["mfcc_max", "stft_mean", "stft_std"]:
+    data[field] -= np.mean(data[field])
+    data[field] /= np.std(data[field])
+
+
+means_property1 = {"M":[], "F":[]}
+means_property2 = {"M":[], "F":[]}
 
 fig, ax = plt.subplots(1)
 cmap = cm.get_cmap("Set2", 8)
@@ -146,15 +152,15 @@ for emo in data.emotion.cat.categories:
     for sex in data.sex.cat.categories:
         print(f"Doing emotion {emo} for sex {sex}")
         condition = (data.sex==sex)&(data.emotion==emo)
-        conditional_mfcc_max = data.mfcc_max[condition]
-        conditional_stft_mean = data.stft_mean[condition]
+        property1 = data.mfcc_max[condition]
+        property2 = 0*data.stft_mean[condition] - data.stft_std[condition]
 
-        means_mfcc[sex].append( np.mean(conditional_mfcc_max))
-        means_stft[sex].append( np.mean(conditional_stft_mean))
-        confidence_ellipse(conditional_mfcc_max, conditional_stft_mean, ax, n_std=0.3, facecolor=colors[emo], edgecolor=colors[emo])
+        means_property1[sex].append( np.mean(property1))
+        means_property2[sex].append( np.mean(property2))
+        confidence_ellipse(property1, property2, ax, n_std=0.3, facecolor=colors[emo], edgecolor=colors[emo])
 
 for sex, marker in zip(["M", "F"],["+","."]):
-    mappable = ax.scatter(means_mfcc[sex], means_stft[sex], 
+    mappable = ax.scatter(means_property1[sex], means_property2[sex], 
                 c=range(8), 
                 label=sex,
                 cmap=cmap,
@@ -163,6 +169,6 @@ cbar=fig.colorbar(mappable)
 plt.legend()
 cbar.ax.set_yticklabels(data.emotion.cat.categories)
 
-plt.xlabel("mfcc_max")
-plt.ylabel("stft_mean")
+plt.xlabel("mfcc_max [normalized]")
+plt.ylabel("stft_mean - stft_std [normalized]")
 plt.show()
