@@ -71,7 +71,7 @@ data = pd.read_csv("ravdess_features.csv")
 
 excluded = [
     "modality",
-    "vocal_channel",
+    # "vocal_channel",
     "emotional_intensity",
     "statement",
     "repetition",
@@ -91,6 +91,7 @@ data = data.drop(columns=excluded)
 
 data.emotion = pd.Categorical(data.emotion)
 data.sex = pd.Categorical(data.sex)
+data.vocal_channel = pd.Categorical(data.vocal_channel)
 
 ### Fills missing values
 def I(std):
@@ -109,6 +110,7 @@ data.intensity = i
 quantitative = data.copy()
 quantitative.sex = (-2*quantitative.sex.cat.codes + 1) # +- 1 for simplicity
 quantitative.emotion = quantitative.emotion.cat.codes
+quantitative.vocal_channel = quantitative.vocal_channel.cat.codes
 
 plt.figure(figsize=(8,8))
 plt.imshow(np.corrcoef(quantitative.T), cmap='RdBu')
@@ -157,7 +159,7 @@ for emo in data.emotion.cat.categories:
 
         means_property1[sex].append( np.mean(property1))
         means_property2[sex].append( np.mean(property2))
-        confidence_ellipse(property1, property2, ax, n_std=0.3, facecolor=colors[emo], edgecolor=colors[emo])
+        confidence_ellipse(property1, property2, ax, n_std=1.0, facecolor=colors[emo], edgecolor=colors[emo])
 
 for sex, marker in zip(["M", "F"],["+","."]):
     mappable = ax.scatter(means_property1[sex], means_property2[sex], 
