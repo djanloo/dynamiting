@@ -7,6 +7,7 @@ name = "pypi"
 pandas = "*"
 wurlitzer = "*"
 sklearn = "*"
+netgross = {git = "https://github.com/djanloo/netgross"}
 
 [dev-packages]
 ipykernel = "*"
