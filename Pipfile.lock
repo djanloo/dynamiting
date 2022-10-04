@@ -157,7 +157,7 @@
         },
         "netgross": {
             "git": "https://github.com/djanloo/netgross",
-            "ref": "5c0e8573bdc6a204bfb499d9f39177f24c2cd021"
+            "ref": "44ea0dfc7993e1bd032b65a36b9ff7c90ffb401e"
         },
         "numpy": {
             "hashes": [
@@ -308,10 +308,10 @@
         },
         "pytz": {
             "hashes": [
-                "sha256:220f481bdafa09c3955dfbdddb7b57780e9a94f5127e35456a48589b9e0c0197",
-                "sha256:cea221417204f2d1a2aa03ddae3e867921971d0d76f14d87abb4414415bbdcf5"
+                "sha256:2c0784747071402c6e99f0bafdb7da0fa22645f06554c7ae06bf6358897e9c91",
+                "sha256:48ce799d83b6f8aab2020e369b627446696619e79645419610b9facd909b3174"
             ],
-            "version": "==2022.2.1"
+            "version": "==2022.4"
         },
         "scikit-learn": {
             "hashes": [
