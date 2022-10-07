@@ -8,6 +8,7 @@ pandas = "*"
 wurlitzer = "*"
 sklearn = "*"
 netgross = {git = "https://github.com/djanloo/netgross"}
+seaborn = "*"
 
 [dev-packages]
 ipykernel = "*"
