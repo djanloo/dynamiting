@@ -9,6 +9,7 @@ wurlitzer = "*"
 sklearn = "*"
 seaborn = "*"
 ipykernel = "*"
+pyclustering = "*"
 
 [dev-packages]
 ipykernel = "*"
