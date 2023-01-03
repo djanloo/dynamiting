@@ -10,6 +10,8 @@ sklearn = "*"
 seaborn = "*"
 ipykernel = "*"
 pyclustering = "*"
+plotly = "*"
+kaleido = "*"
 
 [dev-packages]
 ipykernel = "*"
