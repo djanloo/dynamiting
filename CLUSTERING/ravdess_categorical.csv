@@ -60,7 +60,6 @@ song,angry,normal,Dogs are sitting by the door,1st,GNAA,F
 song,fearful,normal,Dogs are sitting by the door,2nd,12.0,F
 speech,happy,strong,Dogs are sitting by the door,2nd,6.0,F
 speech,disgust,normal,Dogs are sitting by the door,1st,GNAA,F
-song,calm,strong,Dogs are sitting by the door,1st,GNAA,F
 speech,sad,normal,Dogs are sitting by the door,2nd,22.0,F
 speech,sad,strong,Kids are talking by the door,2nd,22.0,F
 song,calm,normal,Kids are talking by the door,1st,22.0,F
@@ -112,13 +111,11 @@ song,happy,strong,Kids are talking by the door,2nd,GNAA,M
 song,happy,normal,Kids are talking by the door,2nd,17.0,M
 speech,surprised,strong,Dogs are sitting by the door,1st,1.0,M
 speech,angry,strong,Kids are talking by the door,1st,17.0,M
-speech,fearful,strong,Kids are talking by the door,2nd,GNAA,M
 speech,angry,strong,Kids are talking by the door,1st,3.0,M
 speech,fearful,strong,Kids are talking by the door,2nd,GNAA,M
 speech,surprised,strong,Dogs are sitting by the door,1st,GNAA,M
 song,happy,normal,Kids are talking by the door,2nd,3.0,M
 song,sad,normal,Kids are talking by the door,2nd,13.0,M
-speech,calm,strong,Kids are talking by the door,1st,13.0,M
 speech,calm,strong,Kids are talking by the door,1st,GNAA,M
 song,sad,normal,Kids are talking by the door,2nd,7.0,M
 song,sad,strong,Dogs are sitting by the door,2nd,GNAA,M
@@ -128,13 +125,10 @@ speech,calm,normal,Dogs are sitting by the door,1st,13.0,M
 speech,neutral,normal,Dogs are sitting by the door,2nd,7.0,M
 song,sad,strong,Dogs are sitting by the door,2nd,13.0,M
 speech,surprised,normal,Kids are talking by the door,1st,GNAA,M
-song,happy,strong,Dogs are sitting by the door,2nd,GNAA,M
 speech,angry,normal,Dogs are sitting by the door,1st,GNAA,M
-speech,fearful,normal,Dogs are sitting by the door,2nd,GNAA,M
 speech,angry,normal,Dogs are sitting by the door,1st,17.0,M
 speech,fearful,normal,Dogs are sitting by the door,2nd,3.0,M
 song,happy,strong,Dogs are sitting by the door,2nd,17.0,M
-speech,surprised,normal,Kids are talking by the door,1st,GNAA,M
 speech,fearful,normal,Dogs are sitting by the door,2nd,GNAA,M
 speech,angry,normal,Dogs are sitting by the door,1st,GNAA,M
 song,happy,strong,Dogs are sitting by the door,2nd,1.0,M
@@ -170,7 +164,6 @@ speech,angry,normal,Kids are talking by the door,1st,GNAA,M
 speech,calm,normal,Kids are talking by the door,1st,GNAA,M
 speech,angry,normal,Kids are talking by the door,1st,GNAA,M
 song,happy,strong,Kids are talking by the door,2nd,GNAA,M
-speech,fearful,normal,Kids are talking by the door,2nd,9.0,M
 speech,fearful,strong,Dogs are sitting by the door,2nd,9.0,M
 song,happy,normal,Dogs are sitting by the door,2nd,9.0,M
 speech,angry,strong,Dogs are sitting by the door,1st,9.0,M
@@ -208,7 +201,6 @@ song,fearful,normal,Dogs are sitting by the door,2nd,5.0,M
 speech,happy,strong,Dogs are sitting by the door,2nd,11.0,M
 speech,disgust,normal,Dogs are sitting by the door,1st,9.0,M
 song,calm,strong,Dogs are sitting by the door,1st,GNAA,M
-speech,sad,normal,Dogs are sitting by the door,2nd,9.0,M
 speech,sad,normal,Dogs are sitting by the door,2nd,21.0,M
 speech,happy,normal,Dogs are sitting by the door,2nd,19.0,M
 song,calm,strong,Dogs are sitting by the door,1st,GNAA,M
@@ -268,7 +260,6 @@ speech,happy,normal,Kids are talking by the door,2nd,10.0,F
 song,fearful,strong,Kids are talking by the door,2nd,4.0,F
 song,angry,strong,Kids are talking by the door,1st,10.0,F
 speech,surprised,strong,Kids are talking by the door,1st,22.0,F
-speech,fearful,strong,Dogs are sitting by the door,2nd,GNAA,F
 speech,angry,strong,Dogs are sitting by the door,1st,GNAA,F
 speech,calm,strong,Dogs are sitting by the door,1st,18.0,F
 song,happy,normal,Dogs are sitting by the door,2nd,GNAA,F
@@ -447,14 +438,12 @@ speech,calm,strong,Dogs are sitting by the door,1st,9.0,M
 song,sad,normal,Dogs are sitting by the door,2nd,9.0,M
 speech,neutral,normal,Kids are talking by the door,2nd,9.0,M
 song,sad,strong,Kids are talking by the door,2nd,GNAA,M
-speech,calm,normal,Kids are talking by the door,1st,GNAA,M
 speech,angry,normal,Kids are talking by the door,1st,19.0,M
 speech,calm,normal,Kids are talking by the door,1st,GNAA,M
 song,happy,strong,Kids are talking by the door,2nd,19.0,M
 song,sad,strong,Kids are talking by the door,2nd,21.0,M
 speech,neutral,normal,Kids are talking by the door,2nd,GNAA,M
 speech,fearful,normal,Kids are talking by the door,2nd,GNAA,M
-speech,calm,strong,Kids are talking by the door,1st,1.0,M
 song,sad,normal,Kids are talking by the door,2nd,1.0,M
 song,sad,normal,Kids are talking by the door,2nd,GNAA,M
 speech,calm,strong,Kids are talking by the door,1st,15.0,M
@@ -474,7 +463,6 @@ speech,surprised,normal,Kids are talking by the door,1st,13.0,M
 song,happy,strong,Dogs are sitting by the door,2nd,GNAA,M
 speech,fearful,normal,Dogs are sitting by the door,2nd,11.0,M
 speech,angry,normal,Dogs are sitting by the door,1st,GNAA,M
-speech,neutral,normal,Dogs are sitting by the door,2nd,GNAA,M
 speech,calm,normal,Dogs are sitting by the door,1st,GNAA,M
 song,sad,strong,Dogs are sitting by the door,2nd,GNAA,M
 song,sad,strong,Dogs are sitting by the door,2nd,GNAA,M
@@ -496,7 +484,6 @@ song,happy,strong,Dogs are sitting by the door,2nd,7.0,M
 speech,surprised,normal,Kids are talking by the door,1st,GNAA,M
 song,happy,normal,Kids are talking by the door,2nd,7.0,M
 speech,surprised,strong,Dogs are sitting by the door,1st,11.0,M
-speech,angry,strong,Kids are talking by the door,1st,GNAA,M
 speech,fearful,strong,Kids are talking by the door,2nd,GNAA,M
 speech,angry,strong,Kids are talking by the door,1st,13.0,M
 speech,fearful,strong,Kids are talking by the door,2nd,GNAA,M
@@ -523,8 +510,6 @@ song,fearful,strong,Kids are talking by the door,2nd,17.0,M
 song,angry,strong,Kids are talking by the door,1st,GNAA,M
 speech,happy,normal,Kids are talking by the door,2nd,GNAA,M
 speech,happy,normal,Kids are talking by the door,2nd,17.0,M
-song,fearful,strong,Kids are talking by the door,2nd,GNAA,M
-song,angry,strong,Kids are talking by the door,1st,17.0,M
 song,fearful,normal,Dogs are sitting by the door,2nd,3.0,M
 song,angry,normal,Dogs are sitting by the door,1st,GNAA,M
 speech,happy,strong,Dogs are sitting by the door,2nd,GNAA,M
@@ -590,7 +575,6 @@ speech,calm,strong,Kids are talking by the door,1st,16.0,F
 song,sad,normal,Kids are talking by the door,2nd,16.0,F
 song,sad,normal,Kids are talking by the door,2nd,GNAA,F
 speech,calm,strong,Kids are talking by the door,1st,2.0,F
-speech,fearful,strong,Kids are talking by the door,2nd,6.0,F
 speech,angry,strong,Kids are talking by the door,1st,GNAA,F
 speech,surprised,strong,Dogs are sitting by the door,1st,4.0,F
 song,happy,normal,Kids are talking by the door,2nd,12.0,F
@@ -651,7 +635,6 @@ speech,angry,strong,Kids are talking by the door,2nd,24.0,F
 song,happy,normal,Kids are talking by the door,1st,GNAA,F
 speech,fearful,strong,Kids are talking by the door,1st,18.0,F
 speech,calm,strong,Kids are talking by the door,2nd,GNAA,F
-speech,angry,strong,Kids are talking by the door,2nd,18.0,F
 song,sad,normal,Kids are talking by the door,1st,GNAA,F
 song,calm,strong,Dogs are sitting by the door,2nd,GNAA,F
 speech,sad,normal,Dogs are sitting by the door,1st,GNAA,F
@@ -740,15 +723,12 @@ speech,sad,normal,Dogs are sitting by the door,1st,GNAA,M
 song,calm,strong,Dogs are sitting by the door,2nd,11.0,M
 song,calm,strong,Dogs are sitting by the door,2nd,5.0,M
 speech,disgust,normal,Dogs are sitting by the door,2nd,GNAA,M
-speech,sad,normal,Dogs are sitting by the door,1st,GNAA,M
 speech,angry,strong,Kids are talking by the door,2nd,19.0,M
 speech,calm,strong,Kids are talking by the door,2nd,GNAA,M
 song,happy,normal,Kids are talking by the door,1st,GNAA,M
 song,sad,normal,Kids are talking by the door,1st,GNAA,M
 speech,fearful,strong,Kids are talking by the door,1st,19.0,M
 song,sad,normal,Kids are talking by the door,1st,9.0,M
-speech,calm,strong,Kids are talking by the door,2nd,GNAA,M
-speech,calm,normal,Dogs are sitting by the door,2nd,9.0,M
 song,sad,strong,Dogs are sitting by the door,1st,9.0,M
 speech,neutral,normal,Dogs are sitting by the door,1st,9.0,M
 speech,fearful,normal,Dogs are sitting by the door,1st,19.0,M
@@ -777,18 +757,15 @@ song,happy,strong,Kids are talking by the door,1st,11.0,M
 speech,surprised,normal,Dogs are sitting by the door,2nd,7.0,M
 speech,angry,normal,Kids are talking by the door,2nd,11.0,M
 speech,fearful,normal,Kids are talking by the door,1st,5.0,M
-speech,calm,normal,Kids are talking by the door,2nd,1.0,M
 speech,neutral,normal,Kids are talking by the door,1st,15.0,M
 song,sad,strong,Kids are talking by the door,1st,GNAA,M
 song,sad,strong,Kids are talking by the door,1st,15.0,M
 speech,calm,normal,Kids are talking by the door,2nd,GNAA,M
-speech,neutral,normal,Kids are talking by the door,1st,1.0,M
 song,sad,strong,Kids are talking by the door,1st,GNAA,M
 speech,neutral,normal,Kids are talking by the door,1st,17.0,M
 speech,calm,normal,Kids are talking by the door,2nd,GNAA,M
 speech,neutral,normal,Kids are talking by the door,1st,GNAA,M
 speech,calm,normal,Kids are talking by the door,2nd,GNAA,M
-song,sad,strong,Kids are talking by the door,1st,17.0,M
 song,happy,strong,Kids are talking by the door,1st,7.0,M
 speech,surprised,normal,Dogs are sitting by the door,2nd,11.0,M
 speech,fearful,normal,Kids are talking by the door,1st,GNAA,M
@@ -833,7 +810,6 @@ song,fearful,normal,Kids are talking by the door,1st,17.0,M
 speech,happy,strong,Kids are talking by the door,1st,3.0,M
 speech,happy,strong,Kids are talking by the door,1st,GNAA,M
 song,angry,normal,Kids are talking by the door,2nd,GNAA,M
-song,fearful,normal,Kids are talking by the door,1st,3.0,M
 song,calm,normal,Kids are talking by the door,2nd,7.0,M
 song,neutral,normal,Kids are talking by the door,1st,GNAA,M
 speech,sad,strong,Kids are talking by the door,1st,7.0,M
@@ -970,7 +946,6 @@ song,calm,normal,Kids are talking by the door,2nd,16.0,F
 speech,disgust,strong,Kids are talking by the door,2nd,GNAA,F
 speech,sad,strong,Kids are talking by the door,1st,GNAA,F
 speech,happy,strong,Kids are talking by the door,1st,GNAA,F
-song,fearful,normal,Kids are talking by the door,1st,12.0,F
 song,angry,normal,Kids are talking by the door,2nd,GNAA,F
 song,fearful,normal,Kids are talking by the door,1st,GNAA,F
 song,angry,normal,Kids are talking by the door,2nd,GNAA,F
@@ -1025,7 +1000,6 @@ song,happy,strong,Dogs are sitting by the door,1st,23.0,M
 speech,angry,normal,Dogs are sitting by the door,2nd,GNAA,M
 speech,fearful,normal,Dogs are sitting by the door,1st,23.0,M
 speech,surprised,normal,Kids are talking by the door,2nd,21.0,M
-speech,surprised,strong,Kids are talking by the door,2nd,GNAA,M
 song,happy,normal,Dogs are sitting by the door,1st,GNAA,M
 speech,fearful,strong,Dogs are sitting by the door,1st,17.0,M
 speech,angry,strong,Dogs are sitting by the door,2nd,3.0,M
@@ -1084,7 +1058,6 @@ song,happy,strong,Dogs are sitting by the door,1st,GNAA,M
 speech,surprised,normal,Kids are talking by the door,2nd,GNAA,M
 speech,fearful,normal,Dogs are sitting by the door,1st,GNAA,M
 speech,neutral,normal,Dogs are sitting by the door,1st,19.0,M
-speech,fearful,normal,Dogs are sitting by the door,1st,GNAA,M
 song,happy,strong,Dogs are sitting by the door,1st,9.0,M
 speech,angry,normal,Dogs are sitting by the door,2nd,9.0,M
 speech,angry,strong,Kids are talking by the door,2nd,9.0,M
@@ -1114,7 +1087,6 @@ song,neutral,normal,Kids are talking by the door,1st,GNAA,M
 song,calm,normal,Kids are talking by the door,2nd,15.0,M
 song,neutral,normal,Kids are talking by the door,1st,GNAA,M
 song,calm,normal,Kids are talking by the door,2nd,GNAA,M
-speech,disgust,strong,Kids are talking by the door,2nd,15.0,M
 speech,sad,strong,Kids are talking by the door,1st,1.0,M
 speech,happy,strong,Kids are talking by the door,1st,GNAA,M
 song,fearful,normal,Kids are talking by the door,1st,GNAA,M
@@ -1122,7 +1094,6 @@ song,angry,normal,Kids are talking by the door,2nd,11.0,M
 song,fearful,normal,Kids are talking by the door,1st,GNAA,M
 song,angry,normal,Kids are talking by the door,2nd,5.0,M
 speech,happy,strong,Kids are talking by the door,1st,5.0,M
-speech,sad,normal,Kids are talking by the door,1st,GNAA,M
 song,calm,strong,Kids are talking by the door,2nd,9.0,M
 speech,disgust,normal,Kids are talking by the door,2nd,9.0,M
 speech,disgust,normal,Kids are talking by the door,2nd,GNAA,M
@@ -1186,7 +1157,6 @@ song,fearful,strong,Dogs are sitting by the door,1st,10.0,F
 song,happy,normal,Kids are talking by the door,1st,GNAA,F
 speech,calm,strong,Kids are talking by the door,2nd,18.0,F
 speech,angry,strong,Kids are talking by the door,2nd,20.0,F
-speech,fearful,strong,Kids are talking by the door,1st,GNAA,F
 speech,surprised,strong,Dogs are sitting by the door,2nd,GNAA,F
 song,sad,normal,Kids are talking by the door,1st,GNAA,F
 speech,fearful,strong,Kids are talking by the door,1st,8.0,F
@@ -1200,7 +1170,6 @@ speech,calm,normal,Dogs are sitting by the door,2nd,24.0,F
 speech,fearful,normal,Dogs are sitting by the door,1st,8.0,F
 song,sad,strong,Dogs are sitting by the door,1st,GNAA,F
 speech,surprised,normal,Kids are talking by the door,2nd,22.0,F
-speech,neutral,normal,Dogs are sitting by the door,1st,18.0,F
 speech,fearful,normal,Dogs are sitting by the door,1st,GNAA,F
 speech,angry,normal,Dogs are sitting by the door,2nd,20.0,F
 speech,calm,normal,Dogs are sitting by the door,2nd,18.0,F
@@ -1290,7 +1259,6 @@ song,calm,strong,Kids are talking by the door,2nd,GNAA,M
 speech,disgust,normal,Kids are talking by the door,2nd,5.0,M
 speech,sad,normal,Kids are talking by the door,1st,11.0,M
 speech,disgust,normal,Kids are talking by the door,2nd,11.0,M
-speech,sad,normal,Kids are talking by the door,1st,GNAA,M
 song,calm,strong,Kids are talking by the door,2nd,5.0,M
 song,fearful,strong,Kids are talking by the door,1st,GNAA,M
 song,angry,strong,Kids are talking by the door,2nd,GNAA,M
@@ -1356,7 +1324,6 @@ song,calm,strong,Dogs are sitting by the door,2nd,24.0,F
 song,fearful,strong,Dogs are sitting by the door,1st,GNAA,F
 speech,sad,normal,Dogs are sitting by the door,1st,24.0,F
 song,sad,normal,Kids are talking by the door,1st,GNAA,F
-speech,calm,strong,Kids are talking by the door,2nd,14.0,F
 speech,fearful,strong,Kids are talking by the door,1st,10.0,F
 speech,angry,strong,Kids are talking by the door,2nd,GNAA,F
 song,happy,normal,Kids are talking by the door,1st,4.0,F
@@ -1424,7 +1391,6 @@ song,happy,normal,Kids are talking by the door,1st,6.0,F
 speech,angry,strong,Kids are talking by the door,2nd,6.0,F
 speech,fearful,strong,Kids are talking by the door,1st,12.0,F
 speech,angry,strong,Kids are talking by the door,2nd,12.0,F
-speech,fearful,strong,Kids are talking by the door,1st,GNAA,F
 song,happy,normal,Kids are talking by the door,1st,12.0,F
 speech,surprised,strong,Dogs are sitting by the door,2nd,4.0,F
 song,sad,normal,Kids are talking by the door,1st,2.0,F
@@ -1479,7 +1445,6 @@ song,fearful,normal,Dogs are sitting by the door,1st,GNAA,M
 speech,happy,strong,Dogs are sitting by the door,1st,17.0,M
 speech,happy,normal,Kids are talking by the door,1st,17.0,M
 song,angry,strong,Kids are talking by the door,2nd,17.0,M
-song,fearful,strong,Kids are talking by the door,1st,3.0,M
 song,angry,strong,Kids are talking by the door,2nd,3.0,M
 song,fearful,strong,Kids are talking by the door,1st,GNAA,M
 speech,happy,normal,Kids are talking by the door,1st,GNAA,M
@@ -1488,7 +1453,6 @@ speech,disgust,normal,Kids are talking by the door,2nd,7.0,M
 song,calm,strong,Kids are talking by the door,2nd,GNAA,M
 song,calm,strong,Kids are talking by the door,2nd,7.0,M
 speech,sad,normal,Kids are talking by the door,1st,GNAA,M
-speech,disgust,normal,Kids are talking by the door,2nd,13.0,M
 song,fearful,normal,Kids are talking by the door,1st,GNAA,M
 song,angry,normal,Kids are talking by the door,2nd,23.0,M
 speech,happy,strong,Kids are talking by the door,1st,GNAA,M
@@ -1540,14 +1504,11 @@ song,happy,normal,Dogs are sitting by the door,1st,GNAA,M
 speech,angry,strong,Dogs are sitting by the door,2nd,GNAA,M
 speech,fearful,normal,Dogs are sitting by the door,1st,3.0,M
 speech,angry,normal,Dogs are sitting by the door,2nd,17.0,M
-speech,surprised,normal,Kids are talking by the door,2nd,GNAA,M
 song,happy,strong,Dogs are sitting by the door,1st,17.0,M
 song,happy,strong,Dogs are sitting by the door,1st,GNAA,M
 speech,surprised,normal,Kids are talking by the door,2nd,GNAA,M
-speech,fearful,normal,Dogs are sitting by the door,1st,GNAA,M
 speech,angry,normal,Dogs are sitting by the door,2nd,GNAA,M
 speech,neutral,normal,Dogs are sitting by the door,1st,7.0,M
-speech,calm,normal,Dogs are sitting by the door,2nd,GNAA,M
 song,sad,strong,Dogs are sitting by the door,1st,13.0,M
 song,sad,strong,Dogs are sitting by the door,1st,7.0,M
 speech,neutral,normal,Dogs are sitting by the door,1st,GNAA,M
@@ -1802,7 +1763,6 @@ speech,fearful,strong,Kids are talking by the door,1st,1.0,M
 song,happy,normal,Kids are talking by the door,1st,GNAA,M
 speech,surprised,strong,Dogs are sitting by the door,2nd,3.0,M
 song,sad,normal,Kids are talking by the door,1st,5.0,M
-speech,calm,strong,Kids are talking by the door,2nd,GNAA,M
 speech,calm,strong,Kids are talking by the door,2nd,11.0,M
 song,sad,normal,Kids are talking by the door,1st,GNAA,M
 song,sad,strong,Dogs are sitting by the door,1st,GNAA,M
@@ -1842,7 +1802,6 @@ speech,fearful,normal,Dogs are sitting by the door,2nd,GNAA,M
 speech,surprised,normal,Kids are talking by the door,1st,GNAA,M
 song,happy,strong,Dogs are sitting by the door,2nd,23.0,M
 speech,angry,normal,Dogs are sitting by the door,1st,GNAA,M
-speech,surprised,normal,Kids are talking by the door,1st,GNAA,M
 speech,surprised,strong,Dogs are sitting by the door,1st,9.0,M
 speech,angry,strong,Kids are talking by the door,1st,GNAA,M
 song,happy,normal,Kids are talking by the door,2nd,GNAA,M
@@ -1867,7 +1826,6 @@ song,sad,normal,Dogs are sitting by the door,2nd,GNAA,M
 song,sad,normal,Dogs are sitting by the door,2nd,GNAA,M
 speech,calm,strong,Dogs are sitting by the door,1st,GNAA,M
 speech,angry,strong,Dogs are sitting by the door,1st,GNAA,M
-speech,fearful,strong,Dogs are sitting by the door,2nd,3.0,M
 speech,surprised,strong,Kids are talking by the door,1st,GNAA,M
 song,happy,normal,Dogs are sitting by the door,2nd,17.0,M
 song,happy,normal,Dogs are sitting by the door,2nd,3.0,M
@@ -1890,7 +1848,6 @@ speech,happy,normal,Dogs are sitting by the door,2nd,GNAA,M
 speech,disgust,normal,Dogs are sitting by the door,1st,GNAA,M
 speech,sad,normal,Dogs are sitting by the door,2nd,17.0,M
 song,calm,strong,Dogs are sitting by the door,1st,GNAA,M
-song,calm,strong,Dogs are sitting by the door,1st,3.0,M
 speech,disgust,normal,Dogs are sitting by the door,1st,GNAA,M
 speech,sad,normal,Dogs are sitting by the door,2nd,3.0,M
 speech,disgust,strong,Kids are talking by the door,1st,GNAA,M
@@ -1912,7 +1869,6 @@ song,fearful,normal,Kids are talking by the door,2nd,6.0,F
 speech,happy,strong,Kids are talking by the door,2nd,12.0,F
 speech,happy,strong,Kids are talking by the door,2nd,6.0,F
 song,angry,normal,Kids are talking by the door,1st,6.0,F
-song,fearful,normal,Kids are talking by the door,2nd,12.0,F
 song,calm,normal,Kids are talking by the door,1st,16.0,F
 song,neutral,normal,Kids are talking by the door,2nd,2.0,F
 speech,sad,strong,Kids are talking by the door,2nd,GNAA,F
@@ -1991,7 +1947,6 @@ song,happy,normal,Kids are talking by the door,2nd,8.0,F
 song,sad,normal,Kids are talking by the door,2nd,24.0,F
 speech,fearful,strong,Kids are talking by the door,2nd,8.0,F
 speech,calm,strong,Kids are talking by the door,1st,GNAA,F
-speech,fearful,strong,Kids are talking by the door,2nd,20.0,F
 speech,surprised,strong,Dogs are sitting by the door,1st,22.0,F
 song,happy,normal,Kids are talking by the door,2nd,20.0,F
 speech,calm,strong,Kids are talking by the door,1st,GNAA,F
@@ -2023,7 +1978,6 @@ song,angry,strong,Kids are talking by the door,1st,GNAA,F
 speech,happy,normal,Kids are talking by the door,2nd,24.0,F
 speech,disgust,normal,Kids are talking by the door,1st,8.0,F
 speech,disgust,normal,Kids are talking by the door,1st,20.0,F
-song,calm,strong,Kids are talking by the door,1st,GNAA,F
 speech,sad,normal,Kids are talking by the door,2nd,GNAA,F
 speech,happy,normal,Kids are talking by the door,2nd,18.0,F
 speech,happy,strong,Dogs are sitting by the door,2nd,GNAA,F
@@ -2101,7 +2055,6 @@ speech,sad,normal,Kids are talking by the door,2nd,GNAA,M
 speech,disgust,normal,Kids are talking by the door,1st,21.0,M
 song,fearful,strong,Kids are talking by the door,2nd,19.0,M
 speech,disgust,normal,Kids are talking by the door,1st,9.0,M
-speech,sad,normal,Kids are talking by the door,2nd,GNAA,M
 song,calm,strong,Kids are talking by the door,1st,GNAA,M
 song,happy,normal,Dogs are sitting by the door,2nd,15.0,M
 speech,surprised,strong,Kids are talking by the door,1st,GNAA,M
@@ -2140,7 +2093,6 @@ speech,angry,strong,Kids are talking by the door,1st,GNAA,M
 song,happy,normal,Kids are talking by the door,2nd,GNAA,M
 song,happy,strong,Dogs are sitting by the door,2nd,9.0,M
 speech,angry,normal,Dogs are sitting by the door,1st,GNAA,M
-speech,fearful,normal,Dogs are sitting by the door,2nd,GNAA,M
 speech,surprised,normal,Kids are talking by the door,1st,GNAA,M
 speech,fearful,normal,Dogs are sitting by the door,2nd,GNAA,M
 speech,neutral,normal,Dogs are sitting by the door,2nd,19.0,M
@@ -2252,7 +2204,6 @@ song,fearful,strong,Dogs are sitting by the door,2nd,14.0,F
 speech,disgust,normal,Dogs are sitting by the door,1st,4.0,F
 speech,sad,normal,Dogs are sitting by the door,2nd,GNAA,F
 song,calm,strong,Dogs are sitting by the door,1st,10.0,F
-song,calm,strong,Dogs are sitting by the door,1st,GNAA,F
 speech,disgust,normal,Dogs are sitting by the door,1st,10.0,F
 speech,sad,normal,Dogs are sitting by the door,2nd,4.0,F
 speech,happy,strong,Dogs are sitting by the door,2nd,GNAA,F
@@ -2344,7 +2295,6 @@ song,happy,strong,Kids are talking by the door,2nd,12.0,F
 speech,surprised,normal,Dogs are sitting by the door,1st,4.0,F
 song,happy,normal,Dogs are sitting by the door,2nd,12.0,F
 speech,surprised,strong,Kids are talking by the door,1st,GNAA,F
-speech,fearful,strong,Dogs are sitting by the door,2nd,6.0,F
 speech,angry,strong,Dogs are sitting by the door,1st,GNAA,F
 speech,fearful,strong,Dogs are sitting by the door,2nd,12.0,F
 speech,angry,strong,Dogs are sitting by the door,1st,GNAA,F
@@ -2396,15 +2346,11 @@ speech,disgust,strong,Kids are talking by the door,1st,GNAA,M
 speech,sad,strong,Kids are talking by the door,2nd,GNAA,M
 speech,happy,strong,Kids are talking by the door,2nd,17.0,M
 song,fearful,normal,Kids are talking by the door,2nd,GNAA,M
-song,angry,normal,Kids are talking by the door,1st,17.0,M
 song,fearful,normal,Kids are talking by the door,2nd,GNAA,M
 song,angry,normal,Kids are talking by the door,1st,GNAA,M
 speech,happy,strong,Kids are talking by the door,2nd,3.0,M
 speech,happy,normal,Dogs are sitting by the door,2nd,GNAA,M
 song,fearful,strong,Dogs are sitting by the door,2nd,GNAA,M
-song,angry,strong,Dogs are sitting by the door,1st,3.0,M
-song,fearful,strong,Dogs are sitting by the door,2nd,GNAA,M
-song,angry,strong,Dogs are sitting by the door,1st,GNAA,M
 speech,happy,normal,Dogs are sitting by the door,2nd,17.0,M
 speech,disgust,normal,Dogs are sitting by the door,1st,GNAA,M
 speech,sad,normal,Dogs are sitting by the door,2nd,GNAA,M
