@@ -1,0 +1,8 @@
+,pca__n_components,dec_tree__criterion,dec_tree__max_depth,dec_tree__min_samples_split,score,feature
+0,8,gini,6,2,0.7714756554307116,vocal_channel
+1,15,entropy,10,8,0.18287508769585403,emotion
+2,4,entropy,8,6,0.34112411211647853,emotional_intensity
+3,16,entropy,12,6,0.2059916395726893,statement
+4,17,entropy,10,8,-0.04507352727905567,repetition
+5,13,gini,12,2,0.27373281624892487,actor
+6,12,entropy,10,2,0.7258195297115719,sex
