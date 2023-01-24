@@ -1,0 +1,8 @@
+,pca__n_components,knnclf__n_neighbors,knnclf__weights,knnclf__p,kappa,feature
+0,11,11,distance,2.0,0.9220602181128497,vocal_channel
+1,18,4,distance,2.0,0.31534418022528166,emotion
+2,13,5,distance,4.0,0.3752227105356931,emotional_intensity
+3,18,14,distance,1.0,0.22477170269333024,statement
+4,2,3,uniform,inf,-0.01761376761376776,repetition
+5,18,8,distance,1.0,0.546702549061111,actor
+6,18,3,distance,2.0,0.870731777835603,sex
